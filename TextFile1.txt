@@ -1,0 +1,4 @@
+git commands
+
+git branch branchname
+git add -A // to create index in all the newly added files
